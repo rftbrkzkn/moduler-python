@@ -1,2 +1,2 @@
 def bol(x,y):
-  return(a/b)
+  return(x/y)
