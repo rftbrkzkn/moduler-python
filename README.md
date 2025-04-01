@@ -1,8 +1,30 @@
-# Modüler Python Projesi
+# Modüler Python Uygulaması
 
-Bu proje, modüler programlama yaklaşımıyla yazılmış basit bir Python uygulamasıdır.
+Bu proje, modüler programlama ve okunabilir kod yazma alışkanlıklarını geliştirmek için oluşturulmuştur.
 
-## Yapı
+## 🔧 Özellikler
+- Python ile yazılmıştır.
+- Dört temel işlem (toplama, çıkarma, çarpma, bölme) modüler yapıda tasarlanmıştır.
+- Her işlem ayrı bir dosyada tanımlanmış ve `main.py` üzerinden çağrılmıştır.
 
-- `main.py`: Giriş noktası
-- `hesaplama/`: Hesaplama fonksiyonlarını içeren modül
+## 📁 Proje Yapısı
+```
+moduler-python/
+├── main.py
+├── hesaplama/
+│   ├── toplama.py
+│   ├── cikarma.py
+│   ├── carpma.py
+│   └── bolme.py
+└── README.md
+```
+
+## 🚀 Nasıl Çalıştırılır?
+```bash
+python main.py
+```
+
+## 🧠 Amaç
+- Modüler programlamayı öğrenmek
+- Fonksiyonları ayrı dosyalarda tanımlamak
+- Kod okunabilirliğini artırmak
