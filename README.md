@@ -1,2 +1,8 @@
-# moduler-python
-Modüler programlama ve okunabilir Python kodları için çalışma alanım
+# Modüler Python Projesi
+
+Bu proje, modüler programlama yaklaşımıyla yazılmış basit bir Python uygulamasıdır.
+
+## Yapı
+
+- `main.py`: Giriş noktası
+- `hesaplama/`: Hesaplama fonksiyonlarını içeren modül
