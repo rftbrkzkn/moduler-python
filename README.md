@@ -28,3 +28,9 @@ python main.py
 - Modüler programlamayı öğrenmek
 - Fonksiyonları ayrı dosyalarda tanımlamak
 - Kod okunabilirliğini artırmak
+
+## VEML3328 Sensörü
+VEML3328 sensöründen RGB verilerini okuyup SQL Server’a kaydetmek için `veml3328_sql.py` dosyasını çalıştırabilirsiniz. Dosya içinde sensörün I2C adresi ve SQL Server bağlantı bilgilerini güncellemeyi unutmayın.
+```bash
+python veml3328_sql.py
+```
